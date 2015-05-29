@@ -1,0 +1,1 @@
+sass --watch styles/:css/ & coffee -o js/ -cw app/ & karma start
