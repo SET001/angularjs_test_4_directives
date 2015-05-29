@@ -18,7 +18,6 @@ describe "Directive", ->
 			el = angular.element "<notepad/>"
 			$compile(el) scope = $rootScope
 			scope.$digest()
-			console.log (el.find 'li').length
 
 	describe 'notepad', ->
 		it 'should render all notes', ->

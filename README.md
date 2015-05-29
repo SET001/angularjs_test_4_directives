@@ -1,1 +1,1 @@
-# angularjs_test_4_directives
+watch it in action - https://set001.github.io/angularjs_test_4_directives/#
